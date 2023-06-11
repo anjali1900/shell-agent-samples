@@ -1,6 +1,6 @@
 {
   "git_url": "https://github.com/QASymphony/junit-sample.git",
   "local_repository": "junit-sample",
-  "qtest_api_token": "<Your API Token>",
-  "qtest_url": "<Your qTest URL>"
+  "qtest_api_token": "bmVwaGVsZXxBbmphbGkuU2luZ2g0MzZAVC1Nb2JpbGUuY29tOjE3MTgwNDI2NzU1NDg6ZGI1ZjE1MTE1Yjg1MDkxNTAwZjRkMDYwNzJiYjkzM2U",
+  "qtest_url": "https://qtest.t-mobile.com/"
 }
